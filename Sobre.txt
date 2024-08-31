@@ -2,13 +2,58 @@
 //  //  Sobre
 //
 
-↪ 
+↪ Java (em outro repo)
+
+↪ Blender
+
+    // Add
+    ↪ Low Poly Characters: Blender Bitesize Course
+    https://www.udemy.com/course/blender-low-poly-characters
+
+    ↪ Low Poly Landscapes: Blender Bite Sized Course
+    https://www.udemy.com/course/blender-low-poly-landscapes
+
+    ↪ Blender 2.80 + e Krita para jogos e animação
+    https://www.udemy.com/course/blender-280-e-krita-para-jogos-e-animacao
+
+↪ Modloaders
+
+    ↪ NeoForge.
+
+    ↪ Forge.
+
+    ↪ Fabric.
 
 
 
 //
 //  //  Setup (NeoForge)
 //
+
+↪ Setup Java
+
+    ↪ https://adoptium.net/temurin/releases/?version=8
+
+↪ Setup
+
+    ↪ NeoForge
+    https://neoforged.net
+
+    ↪ MDK list
+    https://github.com/neoforgemdks
+
+    ↪ Documentation
+    https://docs.neoforged.net
+
+    ↪ 
+
+    ↪ 
+
+    ↪ 
+
+
+
+// old
 
 ↪ Setup para desenvolvimento Java (VS Code).
 
@@ -134,4 +179,4 @@ https://www.youtube.com/@ModdingByKaupenjoe
     https://www.youtube.com/playlist?list=PLKGarocXCE1G6CQOoiYdMVx-E1d9F_itF
 
     ↪ Learn Minecraft Modding with NeoForge
-    courses.kaupenjoe.net/p/modding-by-kaupenjoe-neoforge-modding-for-minecraft-1-21-x
+    https://courses.kaupenjoe.net/p/modding-by-kaupenjoe-neoforge-modding-for-minecraft-1-21-x
