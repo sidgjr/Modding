@@ -1,0 +1,62 @@
+Ferramentas
+
+    Java 
+    
+        Links e estudo em outro repo
+
+    Blender
+
+    Krita
+
+    Modloaders
+
+        NeoForge
+
+        Forge
+
+        Fabric
+
+Setup
+
+    Java
+
+        Eclipse Temurin™ Latest Releases
+        https://adoptium.net/temurin/releases/?version=8
+
+    JetBrains
+    
+        IntelliJ IDEA
+        https://www.jetbrains.com/idea/
+
+    NeoForge
+
+        NeoForge Site
+        https://neoforged.net
+
+        MDK list
+        https://github.com/neoforgemdks
+
+        Documentation
+        https://docs.neoforged.net
+
+Fontes
+
+    https://github.com/sidgjr/Modding
+
+    Modding by Kaupenjoe
+    https://www.youtube.com/@ModdingByKaupenjoe
+
+    Fabric
+
+    Forge
+
+    NeoForge
+
+        Getting Started with NeoForge
+        https://docs.neoforged.net/docs/gettingstarted/
+
+        NeoForge Modding Tutorials - Minecraft 1.21.X
+        https://www.youtube.com/playlist?list=PLKGarocXCE1G6CQOoiYdMVx-E1d9F_itF
+
+        Learn Minecraft Modding with NeoForge
+        https://courses.kaupenjoe.net/p/modding-by-kaupenjoe-neoforge-modding-for-minecraft-1-21-x
