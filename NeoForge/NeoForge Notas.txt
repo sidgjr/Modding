@@ -1,4 +1,85 @@
 Setup
 
+    NeoForge Site
+    https://neoforged.net
+
+    Documentation
+    https://docs.neoforged.net
+
+    MDK list
+    https://github.com/neoforgemdks
+
     MDK-1.21-ModDevGradle
     https://github.com/NeoForgeMDKs/MDK-1.21-ModDevGradle
+
+Começando: NeoForge Modding Tutorial - Minecraft 1.21: Getting Started | #1
+
+    Baixar e abrir ModDevGradle pelo IntelliJ
+
+    Verificar o build da Gradle
+
+        Esperar finalizar, pode demorar alguns minutos
+
+        Esperar por um "Build Sucessful" e não ter mais nenhuma barra de carregamento no canto inferior direito
+
+    Ajeitar organização do IntelliJ
+
+        Em "Project", no símbolo de 3 pontinhos
+
+            "Tree Appearance" ou só "Appearance", desmarcar "Flatten Modules", "Flatten Packages" e "Compact Middle Packages"
+
+    Shift + F6 em "examplemod" para renomear refatorando
+
+        "com.example.examplemod" para "com.tlum.tutorialmod"
+
+    Shift + F6 no nome da classe também
+
+        "ExampleMod" para "TutorialMod"
+    
+    Deletar todos os atributos da classe TutorialMod exceto por "MODID" e "LOGGER"
+
+        Inclusive suas menções nos métodos para não dar erros
+    
+    Indentar código ao padrão Java
+    
+    Deletar Conteúdo dentro de "commonSetup", "addCreative", "onServerStarting" e por fim dentro do "ClientModEvents", deletar o que está em "onClientSetup"
+    
+    Refatorar "MODID" para "MOD_ID"
+    
+    Mudar a String do "MOD_ID", ser um nome que não pode ser repetido, único e longo para isso.
+
+        Tudo minusculo e sem espaços.
+
+        "examplemod" para "tutorialmod"
+
+    Ir em "gradle.properties"
+
+        "Mod Properties"
+
+            "mod_id" ser o mesmo setado na string da classe (tutorialmod)
+
+            "mod_name", é o nome que vai ser apresentado (para jogadores)
+
+                "Example Mod" para "Tutorial Mod"
+
+            "mod_version"
+
+                "1.0.0" para "0.0.1"
+
+            "mod_group_id"
+
+                "com.example.examplemod" para "com.tlum.tutorialmod"
+
+            "mod_authors" e "mod_description", colocar informações
+
+    ir na Gradle e dar reload
+
+        Depois da build der sucesso, clicar em "Download Sources"
+
+    Por fim, no canto superior direito em "Current File", trocar para "Client" e apertar o botão de play
+
+        A primeira vez pode demorar
+
+        Vai abrir o jogo
+
+        Verificar em Mods se o mod criado está lá
