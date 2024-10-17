@@ -1,3 +1,4 @@
 Setup
 
-    
+    MDK-1.21-ModDevGradle
+    https://github.com/NeoForgeMDKs/MDK-1.21-ModDevGradle

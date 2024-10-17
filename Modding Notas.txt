@@ -33,11 +33,14 @@ Setup
         NeoForge Site
         https://neoforged.net
 
+        Documentation
+        https://docs.neoforged.net
+
         MDK list
         https://github.com/neoforgemdks
 
-        Documentation
-        https://docs.neoforged.net
+        MDK-1.21-ModDevGradle
+        https://github.com/NeoForgeMDKs/MDK-1.21-ModDevGradle
 
 Fontes
 
